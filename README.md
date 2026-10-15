@@ -1,2 +1,3 @@
 # reflection
 Activity. reflection during intramurals
+console.log("My experience during the intramurals was fun and memorable. I was one of the participants in the javelin throw event, where I got 6th place. Although I did not get a higher rank, I am still proud of myself for trying my best and participating in the competition. This experience taught me the importance of sportsmanship, determination, and accepting both victories and defeats. I also learned that winning is not everything because what matters most is the effort and experience we gain. Overall, the intramurals helped me build my confidence and inspired me to improve my skills for future competitions.");
